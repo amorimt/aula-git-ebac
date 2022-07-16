@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Tamiris
+-Profissão: Analista QA jr
+-Cidade: São Paulo
+-O que faz nas horas vaga:Leio e ouço música
+-Feedback sobre o curso Qualidade de Software: Aprendendo muito! Professores ótimos, material de estudo também
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma de navegação limpa e leve
 
 Obrigado!!!
 
